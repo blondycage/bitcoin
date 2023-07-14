@@ -29,7 +29,7 @@
     "react-phone-number-input": "^3.0.23",
     "react-redux": "^5.1.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.1",
+    "react-scripts": "5.0.1",
     "react-simple-maps": "^2.1.2",
     "react-slick": "^0.26.1",
     "recharts": "^1.8.5",
